@@ -5,7 +5,7 @@
     * `kamus_alay.csv`: Kamus yang digunakan untuk menormalisasi kata-kata tidak baku (alay) menjadi kata baku.
 
 * ### `XLNet`
-    * `sentimen-xlnet.ipynb`: Notebook yang berisi kode untuk fine-tuning dan evaluasi model XLNet pada dataset yang sama.
+    * `XLNet_revisi.ipynb`: Notebook yang berisi kode untuk fine-tuning dan evaluasi model XLNet pada dataset yang sama.
     * `dataset_revisi.csv`: Salinan dataset dalam format CSV (Comma-Separated Values) yang digunakan khusus untuk eksperimen XLNet.
 
 * ### `Latih kedua model`
