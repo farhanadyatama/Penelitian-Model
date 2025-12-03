@@ -12,5 +12,5 @@
     * `result_revisi.ipynb`: Notebook yang berisi kode untuk membandingkan, menganalisis, dan memvisualisasikan hasil performa dari kedua model (IndoBERT dan XLNet) secara berdampingan.
 
 * ### `Hasil Kedua Model yang sudah dilatih dan sudah bisa digunakan`
-    * `model_indobert`: https://drive.google.com/drive/folders/1SixFVfE1fsBTQ13PNahvdefldMAaodNq?usp=sharing.
-    * `model_xlnet`: https://drive.google.com/drive/folders/1GeAHAY9qiISHQDcLDDhomIjndftOJh65?usp=drive_link.
+    * `model_indobert_revisi`: https://drive.google.com/drive/folders/1rmzo8UhjDMZzzoV93ax24u0GlT_ogMOX?usp=drive_link
+    * `model_xlnet_revisi`: https://drive.google.com/drive/folders/1neSJuhRIUfL-0vlEUDrSMXAMLTmlGykB?usp=drive_link
